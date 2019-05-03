@@ -1,6 +1,6 @@
 ## Interface: 80100
-## Title: TCA
-## Notes: The Classic Addon - type /tca for help
+## Title: T|cFF00FF00he|r C|cFF00FF00lassic|r A|cFF00FF00ddon 
+## Notes: TCA: The Classic Addon - type /tca for help
 ## Author: moorea@ymail.com
 ## Version: @project-version@
 ## DefaultState: enabled
