@@ -1,0 +1,4 @@
+package-as: TCA
+
+move-folders:
+  TCA/TCA: TCA
