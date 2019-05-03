@@ -4,5 +4,5 @@
 ## Author: moorea@ymail.com
 ## Version: @project-version@
 ## DefaultState: enabled
-## SavedVariables:  tcaSaved
+## SavedVariables:  tcaSave
 TCA.lua
