@@ -2,7 +2,7 @@
 ## Title: TCA
 ## Notes: The Classic Addon - type /tca for help
 ## Author: moorea@ymail.com
-## Version: 1.0.0
+## Version: @project-version@
 ## DefaultState: enabled
 ## SavedVariables:  tcaSaved
 TCA.lua
