@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: TCA
+## Notes: The Classic Addon - type /tca for help
+## Author: moorea@ymail.com
+## Version: 1.0.0
+## DefaultState: enabled
+## SavedVariables:  tcaSaved
+TCA.lua
